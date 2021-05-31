@@ -5,37 +5,6 @@ using namespace std;
 
 int main(){
 	int c1, c2, h;
-;;;;;;;
-
-;;
-;
-;
-;
-;
-;
-;
-;
-;
-;;
-;
-;
-;;
-;
-
-;
-;
-
-;
-;
-;
-;
-;
-;
-;
-;
-;
-;
-;
 
 	cout<<"Esta es la calculadora del teorema de pitagoras"<<endl;
 	cout<<"Introduce el primer cateto: "; cin>>c1;
